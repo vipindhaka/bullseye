@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">kodeco</string>
+    <string name="instruction_text">PUT THE BULLSEYE AS CLOSE AS YOU CAN TO THE TARGET</string>
+    <string name="min_value_text">1</string>
+    <string name="max_value_text">100</string>
+    <string name="hit_me_button_text">Hit me</string>
+    <string name="target_value_text">89</string>
+    <string name="result_dialog_button_text">Awesome</string>
+    <string name="result_dialog_title">Hello there</string>
+    <string name="result_dialog_message">The Slider\'s value is %1$d.\nYou scored %2$d points this round</string>
+    <string name="start_over">Start over</string>
+    <string name="info">Info</string>
+    <string name="score_label">Score label</string>
+    <string name="current_round_label">Round</string>
+    <string name="alert_title1">Perfect!</string>
+    <string name="alert_title2">You almost had it</string>
+    <string name="alert_title3">Not Bad</string>
+    <string name="alert_title4">Are you even trying?</string>
+    <string name="slider_thumb_description">Slider Thumb</string>
+    <string name="background_image">Background Image</string>
+    <string name="abotu_title">Bullseye</string>
+    <string name="about_bullseye_text">"khgfkabf akahfn,dvkbfkjabfm afiuhaf,m fiuhfmaf baifhkabf "</string>
+    <string name="back_button_text">Go Back</string>
+</resources>
